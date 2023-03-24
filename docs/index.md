@@ -54,3 +54,37 @@ The main principles that underlie TQM are summarized below:
 
 - Continuous improvement:  Businesses should always be looking for ways to improve processes to help quality.
 - Employee involvement: Those involved in production and operations have a vital role to play in spotting improvement opportunities for quality and in identifying quality problems
+
+## Models of TQM
+
+There are many models of TQM. These include:
+
+- Deming's 14 Points
+
+- Juran's Quality Trilogy
+
+- Crosby's 14 Points
+
+- The EFQM Excellence Model
+
+- The Malcolm Baldrige National Quality Award
+
+- The ISO 9000 Series
+
+- The Six Sigma Model
+
+- The Lean Model
+
+- The TQM Model
+
+> There are several models of Total Quality Management (TQM) that organizations can use to implement TQM practices. Some of the popular TQM models are:
+
+- Deming's 14 Points: Developed by W. Edwards Deming, this model emphasizes the importance of continuous improvement, customer focus, employee involvement, and leadership in TQM.
+
+- Juran's Trilogy: Developed by Joseph M. Juran, this model includes three components: quality planning, quality control, and quality improvement. It emphasizes the importance of meeting customer needs and expectations and reducing variation in processes.
+
+- Six Sigma: This is a data-driven approach that aims to reduce defects and improve quality by using statistical analysis to identify and eliminate sources of variation in processes.
+
+- ISO 9001: This is an international standard for quality management systems that provides a framework for organizations to implement TQM practices. It includes requirements for processes, documentation, and continuous improvement.
+
+- EFQM Excellence Model: This is a European framework that helps organizations assess their TQM practices across several categories, including leadership, strategy, people, and processes.
