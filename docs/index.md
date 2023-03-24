@@ -6,7 +6,7 @@ Total Quality Management (TQM) is an enhancement to the traditional way of doing
 - Quality: Degree of excellence a product or service provides.
 - Management: Act, art, or manner of handling, controlling, directing, etc.
 
-Therefore, TQM is the art of managing the whole to achieve excellence.
+**Therefore, TQM is the art of managing the whole to achieve excellence.**
 
 ## Basic Concepts for TQM
 
@@ -30,7 +30,7 @@ If Q is greater than `1.0`, then the customer has a good feeling about the produ
 
 ## Obstrucles to TQM
 
-There are many obstacles to TQM. These include:
+**There are many obstacles to TQM. These include:**
 
 - Lack of management commitment
 - Inability to change organizational culture
@@ -43,7 +43,7 @@ There are many obstacles to TQM. These include:
 
 ## Main Principles of TQM
 
-The main principles that underlie TQM are summarized below:
+**The main principles that underlie TQM are summarized below:**
 
 - Prevention: Prevention is better than cure. In the long run, it is cheaper to stop products defects than trying to find them
 - Zero defects : The ultimate aim is no (zero) defects - or exceptionally low defect levels if a product or service is complicated.
@@ -63,19 +63,11 @@ There are many models of TQM. These include:
 
 - Juran's Quality Trilogy
 
-- Crosby's 14 Points
-
 - The EFQM Excellence Model
-
-- The Malcolm Baldrige National Quality Award
 
 - The ISO 9000 Series
 
 - The Six Sigma Model
-
-- The Lean Model
-
-- The TQM Model
 
 > There are several models of Total Quality Management (TQM) that organizations can use to implement TQM practices. Some of the popular TQM models are:
 
@@ -115,33 +107,33 @@ JIT is often associated with lean manufacturing, which aims to eliminate waste a
 
 ## Khanban System, JIT System and MRP System
 
-*Kanban System:*
+**Kanban System:**
 
 The Kanban system is a lean manufacturing system that uses visual signals to trigger the movement of materials, products, or information through the supply chain. It is a pull-based system, where inventory is replenished only when a signal is received indicating that it is needed. Kanban helps to reduce waste, improve efficiency, and increase production flexibility by enabling just-in-time (JIT) delivery.
 
-*MRP (Material Requirements Planning) System:*
+**MRP (Material Requirements Planning) System:**
 
 Material Requirements Planning (MRP) is a computer-based inventory management system that uses production schedules, inventory levels, and customer orders to determine the amount of materials and supplies needed to meet production requirements. MRP is a push-based system, where materials and supplies are ordered based on forecasted demand and production schedules. MRP helps to ensure that the necessary materials and supplies are available when needed, and can also help to optimize inventory levels and reduce waste.
 
-*JIT (Just-In-Time) System:*
+**JIT (Just-In-Time) System:**
 
 Just-In-Time (JIT) is a lean manufacturing system that focuses on producing goods only when they are needed, in the quantity needed, and at the quality required. JIT is a pull-based system, where inventory is replenished only when it is needed, and production is driven by customer demand. JIT helps to reduce inventory costs, minimize waste, and improve production efficiency by reducing lead times and production cycle times.
 
-*Comparison:*
+**Comparison:**
 
 The main difference between MRP and JIT is that MRP is a push-based system that relies on forecasts and schedules to order materials and supplies, while JIT is a pull-based system that relies on demand to trigger the production and delivery of goods. MRP is better suited for industries with high demand uncertainty, long lead times, and high inventory carrying costs, while JIT is better suited for industries with stable demand, short lead times, and low inventory carrying costs.
 
 On the other hand, the Kanban system is a pull-based system like JIT, but it uses visual signals to trigger the movement of materials, products, or information through the supply chain, whereas JIT relies on demand to trigger production and delivery. The Kanban system is more flexible and adaptable than JIT, and it can be used in a variety of production environments, from manufacturing to service industries.
 
-Overall, each of these systems has its own strengths and weaknesses, and the choice of system depends on the specific needs and characteristics of the business.
+> Overall, each of these systems has its own strengths and weaknesses, and the choice of system depends on the specific needs and characteristics of the business.
 
 ## Workers Participation in JIT
 
-*Just-in-Time (JIT)* is a production strategy that relies on producing goods or services at the exact time they are needed in the production process, rather than producing them in advance and storing them. JIT involves close collaboration and communication among all stakeholders, including workers, to ensure that production processes are optimized and waste is minimized.
+**Just-in-Time (JIT)** is a production strategy that relies on producing goods or services at the exact time they are needed in the production process, rather than producing them in advance and storing them. JIT involves close collaboration and communication among all stakeholders, including workers, to ensure that production processes are optimized and waste is minimized.
 
 Worker involvement is crucial to the success of JIT implementation, as it requires a culture of continuous improvement and teamwork to achieve the desired results. Workers need to be involved in every stage of the JIT process, from planning and scheduling to production and quality control.
 
-*Here are some ways in which workers can be involved in JIT implementation:*
+**Here are some ways in which workers can be involved in JIT implementation:**
 
 - Cross-functional teams: Workers from different departments and functions can work together in cross-functional teams to identify opportunities for improvement and implement changes in production processes. This can help to break down silos and improve communication and collaboration among workers.
 
@@ -157,19 +149,19 @@ Worker involvement is crucial to the success of JIT implementation, as it requir
 
 **SPC (Statistical Process Control) and SQC (Statistical Quality Control) are techniques used in quality management to monitor and control production processes and ensure that products or services meet customer requirements. While the two techniques are similar, there are some key differences between them.**
 
-*SPC:*
+**SPC:**
 
 SPC is a technique used to monitor and control production processes by using statistical methods to analyze process data and identify sources of variation. SPC involves collecting data on process performance, such as process outputs or measurements, and using statistical tools to analyze the data and identify trends or patterns. The goal of SPC is to identify sources of variation in the process and make adjustments to reduce or eliminate them, thereby improving process performance and product quality.
 
-*SQC:*
+**SQC:**
 
 SQC is a technique used to monitor and control product quality by using statistical methods to analyze product data and identify quality issues. SQC involves collecting data on product quality, such as defects or non-conformities, and using statistical tools to analyze the data and identify trends or patterns. The goal of SQC is to identify quality issues and make adjustments to reduce or eliminate them, thereby improving product quality and customer satisfaction.
 
-*Key Differences:*
+**Key Differences:**
 
 The main difference between SPC and SQC is that SPC focuses on process performance and controlling process variability, while SQC focuses on product quality and controlling product variability. SPC is used to monitor and control the production process to ensure that it is producing products within acceptable limits, while SQC is used to monitor and control product quality to ensure that the products meet customer requirements.
 
-*Examples:*
+**Examples:**
 
 Examples of SPC techniques include control charts, which are used to monitor process performance and detect changes in the process, and process capability analysis, which is used to assess the ability of the process to produce products within specified limits.
 
