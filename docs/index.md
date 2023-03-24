@@ -152,3 +152,27 @@ Worker involvement is crucial to the success of JIT implementation, as it requir
 - Training and education: Workers need to be trained and educated on the principles of JIT and how it can benefit the organization. This can help to increase worker buy-in and improve the chances of successful implementation.
 
 > Overall, worker involvement is essential to the success of JIT implementation, as it requires a shift in organizational culture and the adoption of new ways of working. By involving workers in the process, organizations can improve communication and collaboration, reduce waste, improve product quality, and increase efficiency and productivity.
+
+## SPC and SQC
+
+**SPC (Statistical Process Control) and SQC (Statistical Quality Control) are techniques used in quality management to monitor and control production processes and ensure that products or services meet customer requirements. While the two techniques are similar, there are some key differences between them.**
+
+*SPC:*
+
+SPC is a technique used to monitor and control production processes by using statistical methods to analyze process data and identify sources of variation. SPC involves collecting data on process performance, such as process outputs or measurements, and using statistical tools to analyze the data and identify trends or patterns. The goal of SPC is to identify sources of variation in the process and make adjustments to reduce or eliminate them, thereby improving process performance and product quality.
+
+*SQC:*
+
+SQC is a technique used to monitor and control product quality by using statistical methods to analyze product data and identify quality issues. SQC involves collecting data on product quality, such as defects or non-conformities, and using statistical tools to analyze the data and identify trends or patterns. The goal of SQC is to identify quality issues and make adjustments to reduce or eliminate them, thereby improving product quality and customer satisfaction.
+
+*Key Differences:*
+
+The main difference between SPC and SQC is that SPC focuses on process performance and controlling process variability, while SQC focuses on product quality and controlling product variability. SPC is used to monitor and control the production process to ensure that it is producing products within acceptable limits, while SQC is used to monitor and control product quality to ensure that the products meet customer requirements.
+
+*Examples:*
+
+Examples of SPC techniques include control charts, which are used to monitor process performance and detect changes in the process, and process capability analysis, which is used to assess the ability of the process to produce products within specified limits.
+
+Examples of SQC techniques include acceptance sampling, which is used to inspect a sample of products to determine whether they meet customer requirements, and defect analysis, which is used to identify the causes of defects and develop strategies to reduce or eliminate them.
+
+> Overall, SPC and SQC are important tools in quality management that help organizations to improve their processes and products, reduce waste, and increase customer satisfaction. By using statistical methods to analyze data and identify issues, organizations can make data-driven decisions and continually improve their quality management systems.
