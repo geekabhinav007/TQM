@@ -104,3 +104,33 @@ Total Quality Management (TQM) is a comprehensive approach to improving the qual
 - Improved competitiveness and market share: TQM helps organizations to become more competitive by improving the quality of their products and services. By providing high-quality products and services, organizations can increase market share and build a strong reputation for quality.
 
 In summary, the benefits of TQM are numerous and can lead to improved organizational performance, increased customer satisfaction, and greater organizational efficiency. By implementing TQM practices, organizations can achieve these benefits and remain competitive in their industries.
+
+## JIT
+
+JIT stands for Just-in-Time, which is a production strategy that involves producing goods or services at the exact time they are needed in the production process, rather than producing them in advance and storing them. JIT aims to minimize waste and inventory costs by producing only what is needed, when it is needed, and in the amount needed.
+
+The JIT approach relies on a tightly coordinated supply chain, where suppliers deliver raw materials and components just in time for production, and finished goods are delivered to customers as soon as they are completed. By minimizing inventory, JIT can reduce the costs associated with storage, handling, and obsolescence, and improve cash flow.
+
+JIT is often associated with lean manufacturing, which aims to eliminate waste and increase efficiency in production processes. JIT has been successfully applied in a variety of industries, including manufacturing, healthcare, and service industries. However, it requires careful planning and coordination to ensure that materials and goods are available when needed and that production processes are optimized for efficiency.
+
+## Khanban System, JIT System and MRP System
+
+Kanban System:
+
+The Kanban system is a lean manufacturing system that uses visual signals to trigger the movement of materials, products, or information through the supply chain. It is a pull-based system, where inventory is replenished only when a signal is received indicating that it is needed. Kanban helps to reduce waste, improve efficiency, and increase production flexibility by enabling just-in-time (JIT) delivery.
+
+MRP (Material Requirements Planning) System:
+
+Material Requirements Planning (MRP) is a computer-based inventory management system that uses production schedules, inventory levels, and customer orders to determine the amount of materials and supplies needed to meet production requirements. MRP is a push-based system, where materials and supplies are ordered based on forecasted demand and production schedules. MRP helps to ensure that the necessary materials and supplies are available when needed, and can also help to optimize inventory levels and reduce waste.
+
+JIT (Just-In-Time) System:
+
+Just-In-Time (JIT) is a lean manufacturing system that focuses on producing goods only when they are needed, in the quantity needed, and at the quality required. JIT is a pull-based system, where inventory is replenished only when it is needed, and production is driven by customer demand. JIT helps to reduce inventory costs, minimize waste, and improve production efficiency by reducing lead times and production cycle times.
+
+Comparison:
+
+The main difference between MRP and JIT is that MRP is a push-based system that relies on forecasts and schedules to order materials and supplies, while JIT is a pull-based system that relies on demand to trigger the production and delivery of goods. MRP is better suited for industries with high demand uncertainty, long lead times, and high inventory carrying costs, while JIT is better suited for industries with stable demand, short lead times, and low inventory carrying costs.
+
+On the other hand, the Kanban system is a pull-based system like JIT, but it uses visual signals to trigger the movement of materials, products, or information through the supply chain, whereas JIT relies on demand to trigger production and delivery. The Kanban system is more flexible and adaptable than JIT, and it can be used in a variety of production environments, from manufacturing to service industries.
+
+Overall, each of these systems has its own strengths and weaknesses, and the choice of system depends on the specific needs and characteristics of the business.
