@@ -141,7 +141,7 @@ Overall, each of these systems has its own strengths and weaknesses, and the cho
 
 Worker involvement is crucial to the success of JIT implementation, as it requires a culture of continuous improvement and teamwork to achieve the desired results. Workers need to be involved in every stage of the JIT process, from planning and scheduling to production and quality control.
 
-Here are some ways in which workers can be involved in JIT implementation:
+*Here are some ways in which workers can be involved in JIT implementation:*
 
 - Cross-functional teams: Workers from different departments and functions can work together in cross-functional teams to identify opportunities for improvement and implement changes in production processes. This can help to break down silos and improve communication and collaboration among workers.
 
